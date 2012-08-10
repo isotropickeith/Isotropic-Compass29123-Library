@@ -1,6 +1,10 @@
 #include <Compass29123.h>
 
 // Test Sketch for Compass29123 Library
+//
+// Keith Rasmussen
+// Isotropic Laboratories
+// No Rights Reserved
 
 
 #define DEBUG
